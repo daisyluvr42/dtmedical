@@ -117,7 +117,7 @@ export const About = () => {
                         </div>
                     </div>
                     <div className="bg-[#38B6FF] rounded-lg p-5 mb-4 flex items-center justify-center gap-4">
-                        <span className="font-medium text-center">CCBT Module</span>
+                        <a href="https://ccbt.dt-medical-inc.com/" target="_blank" rel="noopener noreferrer" className="font-medium text-center hover:text-white underline-offset-4 hover:underline transition-all">CCBT Module</a>
                         <img src="/assets/plus-a5e843b4.svg" alt="Plus" className="mx-4" />
                         <span className="font-medium text-center">CBT-I Module</span>
                     </div>
